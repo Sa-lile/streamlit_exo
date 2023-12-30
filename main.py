@@ -4,7 +4,7 @@ import pandas as pd
 from PIL import Image
 import time
 
-st.subheader('This is a Streamlit & Python** création ', divider='rainbow')
+st.subheader('This is a Streamlit & Python création ', divider='rainbow')
 st.title('Streamlit is :blue[cool] :sunglasses:')
 
 st.markdown("***Interactive Widgets*** &mdash;\
