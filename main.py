@@ -3,9 +3,13 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import time
+import datetime
 
 st.subheader('This is a Streamlit & Python création ', divider='rainbow')
+today = datetime.date.today()
+today
 st.title('Streamlit is :blue[cool] :sunglasses:')
+
 
 st.markdown("***Interactive Widgets*** &mdash;\
             :tulip::cherry_blossom::rose:")
